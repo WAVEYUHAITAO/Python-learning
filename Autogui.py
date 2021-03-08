@@ -5,7 +5,6 @@ window.geometry('400x100')
 var = tk.StringVar()
 l=tk.Label(window,textvariable=var,bg='green',font=('Arial',12),width=15,height=2)
 l.pack()
-global on_hit
 on_hit = False
 def hit_me():
     global on_hit
