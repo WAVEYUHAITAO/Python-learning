@@ -1,7 +1,9 @@
 import tkinter as tk
 window=tk.Tk()
-window.title('my window')
-window.geometry('400x100')
+window.title('神武辅助')
+window.geometry('500x300')
+window.geometry('+500+800')
+#window.geometry('400x100+500+800')
 var = tk.StringVar()
 l=tk.Label(window,textvariable=var,bg='green',font=('Arial',12),width=15,height=2)
 l.pack()
@@ -16,4 +18,6 @@ def hit_me():
         var.set('')
 b=tk.Button(window, text='hit me', width=15, height=2, command=hit_me)
 b.pack()
+Label=tk.Label(window,text='签名', font=('华文行楷',20))
+Label.pack()
 window.mainloop()
