@@ -18,4 +18,4 @@ while counts>0:
         else:
             print("大啦")
     counts=counts-1
-print("游戏结束,不玩啦^_^!!")
+print("游戏结束,不玩啦^_^!!!")
