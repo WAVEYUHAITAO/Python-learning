@@ -9,3 +9,4 @@ def time_master(func):
     print("stop the function")
     print(f"The total time consumed:{(stop-start):.2f}s")
 
+time_master(myfunc)
