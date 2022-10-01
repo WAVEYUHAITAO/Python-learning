@@ -12,4 +12,4 @@ def time_master(func):
 def myfunc():
     time.sleep(2)
     print("Hello HAITAO!")
-myfunc()
+myfunc() 
