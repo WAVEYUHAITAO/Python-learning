@@ -1,6 +1,7 @@
 import time
 def myfunc():
-    print("myfunc is running!")
+    time.sleep(2)
+    print("Hello HAITAO!")
 def time_master(func):
     print("start the function~")
     start=time.time()
