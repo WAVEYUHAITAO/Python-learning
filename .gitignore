@@ -1,4 +1,4 @@
 *.h
 !a.h
 .git
-sklearn_venv_Linux
+/sklearn_venv_Linux
