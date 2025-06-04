@@ -3,3 +3,15 @@
 .git
 /sklearn_venv_Linux
 /sklearn_venv_Windows
+*.jpg
+*.png
+*.txt
+*.pth
+events.*
+*.xml
+*.tar.
+nlp_2025
+mnist-tensor-rt
+models
+pytorch_2025/models
+pytorch_2025/dataset

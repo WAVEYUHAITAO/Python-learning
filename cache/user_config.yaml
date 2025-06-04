@@ -1,0 +1,5 @@
+cache_dir: null
+lang: en
+last_model: Qwen2.5-0.5B
+path_dict:
+  Qwen2.5-0.5B: D:\study\coding\Github Repos\Python-learning\models\Qwen2_5-0_5B
